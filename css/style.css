@@ -411,6 +411,11 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
+.project-text-container {
+    display: flex;
+    gap: 1em;
+}
+
 .portfolio__item {
     background: var(--color-accent);
     overflow: hidden;
