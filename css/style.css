@@ -533,3 +533,8 @@ header {
     text-decoration: none;
 
 }
+
+.project-img {
+  width: 20em;
+  aspect-ratio: 1/1;
+}
